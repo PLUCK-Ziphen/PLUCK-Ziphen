@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm 👋
 
-<!--
-**PLUCK-Ziphen/PLUCK-Ziphen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student | Aspiring Software Engineer**
 
-Here are some ideas to get you started:
+I have a solid foundation in **C and Python**, with hands-on experience in **Object-Oriented Programming (OOP)** and **Data Structures & Algorithms (DSA)**.
+I enjoy solving problems logically and writing clean, efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am focused on strengthening my core computer science fundamentals and gradually transitioning toward building **meaningful, real-world software projects**.
+
+
+## 🛠️ Skills & Technologies
+
+* **Programming Languages:** C, Python
+* **Core Concepts:**
+
+  * Object-Oriented Programming (OOP)
+  * Data Structures & Algorithms
+* **Problem Solving:**
+
+  * Algorithmic thinking
+  * Competitive-style DSA practice
+
+## 🎯 Current Focus
+
+* Improving DSA depth and consistency
+* Writing structured, readable, and optimized code
+* Learning how to convert ideas into practical applications
+* Building small but meaningful projects to apply fundamentals
+
+## 🚀 Goals
+
+* Become a well-rounded software engineer with strong fundamentals
+* Develop software with clarity, precision, and purpose
+* Continuously improve through learning, practice, and real-world exposure
+
+Thanks for visiting my profile.
+I'm always learning and improving — one commit at a time.
